@@ -4,5 +4,5 @@
   (lib (name "CUSTOM")(type "KiCad")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/CUSTOM")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB_LF__SN")(type "KiCad")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/SM04B-SRSS-TB_LF__SN")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/random-keyboard-parts.pretty-master")(options "")(descr ""))
-  (lib (name "Resistors")(type "KiCad")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/Resistors")(options "")(descr ""))
+  (lib (name "kbd-master")(type "KiCad")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/kbd-master/kicad-footprints/kbd.pretty")(options "")(descr ""))
 )

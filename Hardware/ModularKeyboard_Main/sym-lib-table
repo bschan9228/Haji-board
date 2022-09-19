@@ -2,4 +2,5 @@
   (lib (name "74HC165D_653")(type "Legacy")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/74HC165D_653/74HC165D_653.lib")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "SM04B-SRSS-TB_LF__SN_")(type "Legacy")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/SM04B-SRSS-TB_LF__SN/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "C:/Users/bscha/Desktop/ModularKeyboard-main/Hardware/libs/kbd-master/kicad-symbols/kbd.lib")(options "")(descr ""))
 )
